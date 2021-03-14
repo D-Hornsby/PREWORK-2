@@ -27,7 +27,7 @@ Not to be confused with header tags. This is where you add your title tags: <tit
 4. And finally you have your body tags: <body></body>
 This is where the main content of your document will live. This is the section that will be visible on the browser and where you will insert all of your html elements.
 
-  **I have added code when setting up this readme but it will not show when I save the changes. My apoligies. **
+  **I have added code when setting up this readme but not all is showing **
     
       <!DOCTYPE html>
       <html>
@@ -70,7 +70,7 @@ browser
  Using HTML tags: HTML Lists - unordered list
 ● Unordered lists <ul> </ul> tag ○ <li> list item </li>
         
-it looks like (you can look up an example being these are not going to show in the readme
+**it looks like (you can look up an example)**
   <ol>
   <li>Stuff 1</li>
   <li>Stuff 2</li>
