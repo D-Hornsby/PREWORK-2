@@ -27,17 +27,17 @@ Not to be confused with header tags. This is where you add your title tags: <tit
 4. And finally you have your body tags: <body></body>
 This is where the main content of your document will live. This is the section that will be visible on the browser and where you will insert all of your html elements.
 
-  
-  Your Boilerplate should look like this. 
- //     <!DOCTYPE html>
- //     <html>
- //     <head>
- //         <title>Your title here!</>
- //       </head>
- //         <body>
- //          <!--Content of the page goes in the body-->
- //        </body>
- //        </html>
+  **I have added code when setting up this readme but it will not show when I save the changes. My apoligies. **
+  Your Boilerplate should look like this.  
+      <!DOCTYPE html>
+      <html>
+      <head>
+          <title>Your title here!</>
+        </head>
+          <body>
+           <!--Content of the page goes in the body-->
+         </body>
+         </html>
   
   **You can now render your web page in the browser and see your title. 
   to do this...
