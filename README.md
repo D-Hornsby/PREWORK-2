@@ -28,7 +28,7 @@ Not to be confused with header tags. This is where you add your title tags: <tit
 This is where the main content of your document will live. This is the section that will be visible on the browser and where you will insert all of your html elements.
 
   **I have added code when setting up this readme but it will not show when I save the changes. My apoligies. **
-  Your Boilerplate should look like this.  
+    
       <!DOCTYPE html>
       <html>
       <head>
@@ -70,7 +70,7 @@ browser
  Using HTML tags: HTML Lists - unordered list
 ● Unordered lists <ul> </ul> tag ○ <li> list item </li>
         
-it looks like 
+it looks like (you can look up an example being these are not going to show in the readme
   <ol>
   <li>Stuff 1</li>
   <li>Stuff 2</li>
@@ -197,7 +197,8 @@ Width and Height – controls the size of the video on your browser. It is recom
   Create a Nav Bar using lists
 ● Create an unordered list and menu items
 ● Add Links to the list items
-     
+ 
+ Look up examples once again due to these not showing in Readme
 LINK the Nav Bar
   <body>
     <h1>Hi, lets link stuff.<h1>
