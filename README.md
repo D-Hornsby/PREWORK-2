@@ -1,14 +1,12 @@
 # PREWORK-2
 How to build your first web page. 
 
-This is the first bit of code that I put together. 
-I was tempted to make some revisions after the Perscholas boot camp 
-but decided to leave it as is to be reminded later of where I started.  
+This is the first assignment. 
 
 
-These are the directions for 
+The Task 
 
-#Building your first webpage. 
+#Building your first webpage. Instructions. 
 
 This is a rugh layout to give you an idea but any of the toppics below you can research on your own to find out 
 more about each. This is ment to be used as a simple guide. I have added notes taken from the asignment to help somewhat but may not be all the information you will need. 
@@ -20,7 +18,7 @@ Some fundimentals.
   HTML Boilerplate - breakdown
 1. First we have to tell our file that it will contain HTML. We do this by creating the following tag at the very top of the document: <!DOCTYPE html>
 Note: There is no closing tag. This is all you need at the top of your document.
-2. Next we will need a pair of html tags: <html></html>
+2. Next pair of html tags: <html></html>
 IMPORTANT: You need to write ALL of your html code in between these html tags.
 3. Inside of your html tags you will need head tags: <head></head>
 Not to be confused with header tags. This is where you add your title tags: <title></title> for the title of your site as well as where you’ll be linking stylesheets and scripts (More on these later).
